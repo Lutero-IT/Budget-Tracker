@@ -1,0 +1,35 @@
+[
+    {
+        "Date": "2026-03-14 11:57:08",
+        "Start Balance": 0,
+        "End Balance": 666.0,
+        "Account Balance": 666.0,
+        "Operations": {
+            "Incomes": [
+                "+222.0",
+                "+333.0",
+                "+444.0"
+            ],
+            "Expenses": [
+                "-444.0"
+            ]
+        }
+    },
+    {
+        "Date": "2026-03-14 11:57:50",
+        "Start Balance": 666.0,
+        "End Balance": 1665.0,
+        "Account Balance": 1665.0,
+        "Operations": {
+            "Incomes": [
+                "+666.0",
+                "+777.0",
+                "+111.0"
+            ],
+            "Expenses": [
+                "-222.0",
+                "-333.0"
+            ]
+        }
+    }
+]
