@@ -31,5 +31,17 @@
                 "-333.0"
             ]
         }
+    },
+    {
+        "Date": "2026-03-18 12:13:31",
+        "Start Balance": 1665.0,
+        "End Balance": 1998.0,
+        "Account Balance": 1998.0,
+        "Operations": {
+            "Incomes": [
+                "+333.0"
+            ],
+            "Expenses": []
+        }
     }
 ]
