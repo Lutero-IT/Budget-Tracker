@@ -43,5 +43,17 @@
             ],
             "Expenses": []
         }
+    },
+    {
+        "Date": "2026-03-19 12:25:34",
+        "Start Balance": 1998.0,
+        "End Balance": 999.0,
+        "Account Balance": 999.0,
+        "Operations": {
+            "Incomes": [],
+            "Expenses": [
+                "-999.0"
+            ]
+        }
     }
 ]
